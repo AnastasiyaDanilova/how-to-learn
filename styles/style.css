@@ -76,9 +76,6 @@
     z-index: -1;
 }
 
-
-/*block problemi v obuchenii*/
-
 .description {
     display: flex;
     justify-content: center;
@@ -124,9 +121,6 @@
     font-weight: bold;
 }
 
-
-/*block cifri i facti*/
-
 .digits {
     display: flex;
     flex-direction: column;
@@ -153,12 +147,8 @@
     font-weight: normal;
 }
 
-
-/* tablitca__cifri i facti*/
-
 .table {
     width: 1100px;
-    margin: 0;
     padding: 0;
     list-style: none;
     display: flex;
@@ -190,9 +180,6 @@
 .table__text-bank {
     padding-top: 20px;
 }
-
-
-/* blok feynman */
 
 .feynman {
     background-image: url(../images/feynman.png);
@@ -238,9 +225,6 @@
     text-decoration: none;
 }
 
-
-/* block principi obucheniya*/
-
 .kaufman {
     background-color: #1f1f1f;
     position: relative;
@@ -282,9 +266,6 @@
     height: 877px;
     z-index: -1;
 }
-
-
-/* block footer */
 
 .footer {
     background-color: #1f1f1f;
