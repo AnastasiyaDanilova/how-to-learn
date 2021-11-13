@@ -4,11 +4,17 @@
 
 @import url(../Blocks/link/link.css);
 
-/*header*/
 
-@import url(../Blocks/header/header.css);
+/*logo*/
+
 @import url(../Blocks/logo/logo.css);
 @import url(../Blocks/logo/_place/logo_place_header.css);
+@import url(../Blocks/logo/_place/logo_place_footer.css);
+
+/*header*/
+
+
+@import url(../Blocks/header/header.css);
 @import url(../Blocks/header/__title/header__title.css);
 @import url(../Blocks/header/__subtitle/header__subtitle.css);
 @import url(../Blocks/header/__scuare-pic/header__scuare-pic.css);
@@ -107,7 +113,6 @@
 @import url(../Blocks/footer/__columns/footer__columns.css);
 @import url(../Blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../Blocks/footer/__column/_content/footer__column_content_copyright.css);
-@import url(../Blocks/logo/_place/logo_place_footer.css);
 @import url(../Blocks/footer/__author/footer__author.css);
 @import url(../Blocks/footer/__column/_content/footer__column_content_info.css);
 @import url(../Blocks/footer/__column/_content/footer__column_content_social.css);
