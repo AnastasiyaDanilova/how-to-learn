@@ -1,0 +1,6 @@
+.video {
+  margin-top: 50px;
+  transform: translate(0, 50px);
+  position: relative;
+  z-index: 1;
+}
