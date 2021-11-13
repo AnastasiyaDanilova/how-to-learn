@@ -13,7 +13,7 @@
 @import url(../Blocks/rotation/rotation.css);
 @import url(../Blocks/header/__main-illustration/header__main-illustration.css);
 @import url(../Blocks/header/__link/header__link.css);
-
+@import url(../Blocks/link/link.css);  /*link*/
 
 /*description*/
 
@@ -115,5 +115,5 @@
 @import url(../Blocks/footer/__column-link/footer__column-link.css);
 @import url(../Blocks/footer/__social-icon/footer__social-icon.css);
 
-/*link*/
-@import url(../Blocks/link/link.css);
+
+
